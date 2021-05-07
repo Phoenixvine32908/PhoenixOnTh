@@ -1,0 +1,7 @@
+name: PhoenixOnTheVine
+version: ${project.version}
+main: me.phoenixvine.main.Main
+api-version: 1.16
+authors: [ Phoenixvine ]
+description: This is my first plugin
+website: https://discord.gg/G9nr8KXjKP
